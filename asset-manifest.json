@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.97ec9055.css",
+    "main.js": "/static/js/main.12acdda9.js",
+    "static/js/453.df448862.chunk.js": "/static/js/453.df448862.chunk.js",
+    "static/media/olani4.png": "/static/media/olani4.d7c458046896f877069d.png",
+    "static/media/yena1.png": "/static/media/yena1.5b83c85669d840873c7b.png",
+    "static/media/revolt5.png": "/static/media/revolt5.ce920d70fc7ed47790e3.png",
+    "static/media/magix2.png": "/static/media/magix2.0ea0282114d86ed0c106.png",
+    "static/media/yenaphone1.png": "/static/media/yenaphone1.25e662044c987bedf2cd.png",
+    "static/media/Olaniphone4.png": "/static/media/Olaniphone4.5fc8e82afa5f6ab54a55.png",
+    "static/media/revoltphone5.png": "/static/media/revoltphone5.1ff9ff5c0b0041f1d153.png",
+    "static/media/deepsense3.png": "/static/media/deepsense3.c0c49f8bf7505f910c7a.png",
+    "static/media/magixphone2.png": "/static/media/magixphone2.fbd6a4cd4399bf4884d8.png",
+    "static/media/deepsensephone3.png": "/static/media/deepsensephone3.db4b3b3a1c67d8b8c469.png",
+    "static/media/3leaflogo.png": "/static/media/3leaflogo.1f95bbfcb3507f266115.png",
+    "static/media/jglogo.png": "/static/media/jglogo.55ac92a51a5e33ebd300.png",
+    "static/media/bluewavelogo.png": "/static/media/bluewavelogo.d5b355b98288a93bf352.png",
+    "static/media/yenalogo.png": "/static/media/yenalogo.c833c139d190e6f2a5a2.png",
+    "static/media/olanilogo.png": "/static/media/olanilogo.ce97e819d2516979988a.png",
+    "index.html": "/index.html",
+    "main.97ec9055.css.map": "/static/css/main.97ec9055.css.map",
+    "main.12acdda9.js.map": "/static/js/main.12acdda9.js.map",
+    "453.df448862.chunk.js.map": "/static/js/453.df448862.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97ec9055.css",
+    "static/js/main.12acdda9.js"
+  ]
+}
