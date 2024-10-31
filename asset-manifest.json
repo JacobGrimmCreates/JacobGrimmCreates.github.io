@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1fd47bc0.css",
-    "main.js": "/static/js/main.d0a3cad3.js",
+    "main.js": "/static/js/main.95a65434.js",
     "static/js/453.df448862.chunk.js": "/static/js/453.df448862.chunk.js",
     "static/media/olani4.png": "/static/media/olani4.d7c458046896f877069d.png",
     "static/media/yena1.png": "/static/media/yena1.5b83c85669d840873c7b.png",
@@ -20,11 +20,11 @@
     "static/media/olanilogo.png": "/static/media/olanilogo.ce97e819d2516979988a.png",
     "index.html": "/index.html",
     "main.1fd47bc0.css.map": "/static/css/main.1fd47bc0.css.map",
-    "main.d0a3cad3.js.map": "/static/js/main.d0a3cad3.js.map",
+    "main.95a65434.js.map": "/static/js/main.95a65434.js.map",
     "453.df448862.chunk.js.map": "/static/js/453.df448862.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1fd47bc0.css",
-    "static/js/main.d0a3cad3.js"
+    "static/js/main.95a65434.js"
   ]
 }
