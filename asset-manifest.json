@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.c4127b1f.css",
-    "main.js": "/static/js/main.4300768c.js",
+    "main.css": "/static/css/main.915f5dd5.css",
+    "main.js": "/static/js/main.e1c9e995.js",
     "static/js/453.df448862.chunk.js": "/static/js/453.df448862.chunk.js",
     "static/media/olani4.png": "/static/media/olani4.d7c458046896f877069d.png",
     "static/media/yena1.png": "/static/media/yena1.5b83c85669d840873c7b.png",
@@ -19,12 +19,12 @@
     "static/media/yenalogo.png": "/static/media/yenalogo.c833c139d190e6f2a5a2.png",
     "static/media/olanilogo.png": "/static/media/olanilogo.ce97e819d2516979988a.png",
     "index.html": "/index.html",
-    "main.c4127b1f.css.map": "/static/css/main.c4127b1f.css.map",
-    "main.4300768c.js.map": "/static/js/main.4300768c.js.map",
+    "main.915f5dd5.css.map": "/static/css/main.915f5dd5.css.map",
+    "main.e1c9e995.js.map": "/static/js/main.e1c9e995.js.map",
     "453.df448862.chunk.js.map": "/static/js/453.df448862.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c4127b1f.css",
-    "static/js/main.4300768c.js"
+    "static/css/main.915f5dd5.css",
+    "static/js/main.e1c9e995.js"
   ]
 }
